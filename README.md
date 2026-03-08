@@ -7,8 +7,8 @@
 
 ## Members
 
-- changoh
-- friend
+- 강현민
+- 김창오
 
 ---
 
@@ -24,7 +24,7 @@
 ## Directory Structure
 
 ```text
-algorithm-study-template
+algorithm-study
 ├─ .github
 │  └─ pull_request_template.md
 ├─ changoh
@@ -57,7 +57,7 @@ algorithm-study-template
 1. 각자 자기 브랜치에서 문제 풀이
 2. commit
 3. push
-4. Pull Request 생성
+4. Pull Request 생성(풀이 과정은 description 템플릿 활용)
 5. 상대방이 코드 리뷰
 6. 수정 반영
 7. merge
@@ -125,6 +125,7 @@ git push origin changoh
 
 - base: `main`
 - compare: 본인 브랜치
+- description: 템플릿을 활용하여 풀이법 작성
 
 ---
 
@@ -143,7 +144,7 @@ git push origin changoh
 
 ## Recommended Study Routine
 
-- 하루 1~2문제
-- 주 1회 또는 2회 리뷰 정리
+- 주간 단위로 진행
+- 주 초반(~화요일까지) 주간 풀 문제 PROBLEM_LIST.md에 등록하기
 - PR 설명에 문제 링크 / 접근 방법 / 막힌 점 작성
 - merge 전 상대방 리뷰 최소 1회 확인
