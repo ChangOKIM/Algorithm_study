@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class BOJ_0000 {
+public class SWEA_4206 {
 
     static StringTokenizer st;
 
