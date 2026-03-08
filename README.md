@@ -30,7 +30,7 @@ algorithm-study
 ├─ changoh
 │  └─ week01
 │     └─ BOJ_0000.java
-├─ friend
+├─ KHM
 │  └─ week01
 │     └─ BOJ_0000.java
 ├─ docs
