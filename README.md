@@ -30,7 +30,7 @@ algorithm-study
 ├─ changoh
 │  └─ week01
 │     └─ BOJ_0000.java
-├─ KHM
+├─ HyeonMin
 │  └─ week01
 │     └─ BOJ_0000.java
 ├─ docs
@@ -46,7 +46,7 @@ algorithm-study
 
 - `main` : 최종 반영 브랜치
 - `changoh` : changoh 작업 브랜치
-- `friend` : friend 작업 브랜치
+- `HyeonMin` : HyeonMin 작업 브랜치
 
 직접 `main` 에 push 하지 않고, 반드시 브랜치에서 작업 후 Pull Request를 올립니다.
 
