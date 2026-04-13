@@ -10,6 +10,6 @@
 | week04 | 31093 | 23E | BOJ | changoh | 완 | https://www.acmicpc.net/problem/31093 |
 | week05 | 23289 | 온풍기 안녕! | BOJ | HyeonMin | 완 | https://www.acmicpc.net/problem/23289 |
 | week05 | 2243 | 사탕상자 | BOJ | changoh | 예정 | https://www.acmicpc.net/problem/2243 |
-
+|---|---:|---|---|---|---|---|
 | week06 | 23289 | 온풍기 안녕! | BOJ | HyeonMin | 예정 | https://www.acmicpc.net/problem/23289 |
 | week06 | 2243 | 사탕상자 | BOJ | changoh | 예정 | https://www.acmicpc.net/problem/2243 |
