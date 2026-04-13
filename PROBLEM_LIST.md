@@ -8,5 +8,8 @@
 | week02 | 14500 | 테트로미노 | BOJ | HyeonMin | 완 | https://www.acmicpc.net/problem/14500 |
 | week03 | 2206 |  벽 부수고 이동하기 | BOJ | changoh | 완 | https://www.acmicpc.net/problem/2206 |
 | week04 | 31093 | 23E | BOJ | changoh | 완 | https://www.acmicpc.net/problem/31093 |
-| week05 | 23289 | 온풍기 안녕! | BOJ | HyeonMin | 예정 | https://www.acmicpc.net/problem/23289 |
-| week05 | 2243 | 사탕상자 | BOJ | HyeonMin | 예정 | https://www.acmicpc.net/problem/2243 |
+| week05 | 23289 | 온풍기 안녕! | BOJ | HyeonMin | 완 | https://www.acmicpc.net/problem/23289 |
+| week05 | 2243 | 사탕상자 | BOJ | changoh | 예정 | https://www.acmicpc.net/problem/2243 |
+||||||||
+| week06 | 17140 | 이차원 배열과 연산 | BOJ | HyeonMin | 예정 | https://www.acmicpc.net/problem/17140 |
+| week06 | 2243 | 사탕상자 | BOJ | changoh | 예정 | https://www.acmicpc.net/problem/2243 |
