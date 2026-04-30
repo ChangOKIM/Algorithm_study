@@ -10,8 +10,8 @@
 | week04 | 31093 | 23E | BOJ | changoh | 완 | https://www.acmicpc.net/problem/31093 |
 | week05 | 23289 | 온풍기 안녕! | BOJ | HyeonMin | 완 | https://www.acmicpc.net/problem/23289 |
 | week05 | 12865 | 평범한 배낭 | BOJ | changoh | 완 | https://www.acmicpc.net/problem/12865 |
-| week06 | 43165 | 타켓 넘버 | programmers | HyeonMin | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
+| week06 | 43165 | 타켓 넘버 | programmers | HyeonMin | 완 | https://school.programmers.co.kr/learn/courses/30/lessons/43165 |
 | week06 | 16434 | 드래곤 앤 던전 | BOJ | changoh | 완 | https://www.acmicpc.net/problem/16434 |
-| week07 | 1111 | temp | temp | HyeonMin | 예정 | URL |
+| week07 | 42884  | 단속카메라 | programmers | HyeonMin | 완 | https://school.programmers.co.kr/learn/courses/30/lessons/42884 |
 | week07 | 162 | Find Peak Element | LeetCode | changoh | 예정 | https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 |
 
