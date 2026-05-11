@@ -16,4 +16,7 @@
 | week07 | 162 | Find Peak Element | LeetCode | changoh | 완 | https://leetcode.com/problems/find-peak-element/description/?envType=study-plan-v2&envId=top-interview-150 |
 | week07 | 42895  | N으로 표현 | programmers | HyeonMin | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/42895 |
 | week08 | 322 | Coin Change | LeetCode | changoh | 완 | https://leetcode.com/problems/coin-change/description/?envType=study-plan-v2&envId=top-interview-150 |
+| week08 | 42895  | N으로 표현 | programmers | HyeonMin | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/42895 |
+| week08 | 322 | Coin Change | LeetCode | changoh | 완 | https://leetcode.com/problems/coin-change/description/?envType=study-plan-v2&envId=top-interview-150 |
+| week09 | 42747  | H-Index | programmers | HyeonMin | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/42747 |
 | week09 | 224 | Basic Calculator | LeetCode | changoh | 예정 | https://leetcode.com/problems/basic-calculator/description/?envType=study-plan-v2&envId=top-interview-150 |
