@@ -21,4 +21,5 @@
 | week10 |        49 | Basic Calculator   | LeetCode    | changoh  | 완   | https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150    |
 | week10 |     42746 | 가장 큰 수         | programmers | HyeonMin | 완   | https://school.programmers.co.kr/learn/courses/30/lessons/42746                                            |
 | week11 |     42889 | 실패율             | programmers | HyeonMin | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/42889                                            |
-| week11 |    389480 | 완전범죄           | programmers | changoh  | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/389480                                           |
+| week11 |    389480 | 완전범죄           | programmers | changoh  | 완   | https://school.programmers.co.kr/learn/courses/30/lessons/389480                                           |
+| week12 |     81303 | 표 편집            | programmers | changoh  | 예정 | https://school.programmers.co.kr/learn/courses/30/lessons/81303                                            |
